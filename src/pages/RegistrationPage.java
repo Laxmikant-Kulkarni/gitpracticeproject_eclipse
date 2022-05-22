@@ -7,8 +7,9 @@ public class RegistrationPage {
 		
 		System.out.println("Registration Page");
 		String name = "Laxmikant";
-		String company = "epam";
+		String company = "epam systems";
 		int id = 10;
+		String country = "Poland";
 
 	}
 
