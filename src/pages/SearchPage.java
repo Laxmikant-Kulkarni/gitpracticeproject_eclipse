@@ -7,7 +7,8 @@ public class SearchPage {
 
 		
 		System.out.println("Tittle - SearchPage");
-		System.out.println("Search Page on searchpage - LK");
+		System.out.println("Updating search page at shraddha's end");
+    #Keeping details from shraddha commit
 		
 		
 	}
