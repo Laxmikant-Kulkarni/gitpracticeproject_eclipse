@@ -7,6 +7,7 @@ public class SearchPage {
 
 		
 		System.out.println("Tittle - SearchPage");
+		System.out.println("Search Page on Master - LK");
 		
 		
 	}
