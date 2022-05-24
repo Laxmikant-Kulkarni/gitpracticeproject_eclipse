@@ -7,6 +7,8 @@ public class SearchPageTest {
 		
 		System.out.println("Tittle - Search Page - Test");
 		System.out.println("Search Page Test Updated");
+		
+		System.out.println("Tag - release 01");
 
 	}
 

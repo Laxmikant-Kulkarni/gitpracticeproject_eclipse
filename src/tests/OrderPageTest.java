@@ -11,6 +11,8 @@ public class OrderPageTest {
 		System.out.println("SK -  Working on the order page test");
 		
 		System.out.println("Adding order page method as requested in the review");
+		
+		System.out.println("Tag - release 01");
 
 	}
 

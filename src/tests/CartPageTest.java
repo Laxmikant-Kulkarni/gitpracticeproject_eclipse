@@ -8,6 +8,11 @@ public class CartPageTest {
 		System.out.println("Title - Cart Page - Tests");
 		System.out.println("Adding tests around cart pages");
 
+		System.out.println("Working on Cart page test till shraddha finishes her order page");
+		
+		System.out.println("Tag - release 01");
+		
+		
 	}
 
 }

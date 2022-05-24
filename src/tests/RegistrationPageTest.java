@@ -10,6 +10,8 @@ public class RegistrationPageTest {
 		System.out.println(r1);
 		if(true)
 			System.out.println("TRUE");
+		
+		System.out.println("Tag - release 01");
 
 	}
 

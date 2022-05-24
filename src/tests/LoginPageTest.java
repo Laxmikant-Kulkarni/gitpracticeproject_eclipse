@@ -8,6 +8,8 @@ public class LoginPageTest {
 		System.out.println("Tittle - LoginPage - Test");
 		System.out.println("Login Page Test Updated");
 		
+		System.out.println("Tag - release 01");
+		
 	}
 
 }

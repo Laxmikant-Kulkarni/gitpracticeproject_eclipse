@@ -6,6 +6,8 @@ public class LoginPage {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Tittle - LoginPage");
+		
+		System.out.println("Tag - release 01");
 
 	}
 

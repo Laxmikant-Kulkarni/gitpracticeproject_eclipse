@@ -10,6 +10,9 @@ public class RegistrationPage {
 		String company = "epam systems";
 		int id = 10;
 		String country = "Poland";
+		
+		System.out.println("Tag - release 01");
+		
 
 	}
 

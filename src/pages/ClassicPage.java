@@ -14,6 +14,8 @@ public class ClassicPage {
     System.out.println("Sum"+sum);
 
     System.out.println("resolved merge conflic");
+    
+    System.out.println("Tag - release 01");
 	}
 
 }
