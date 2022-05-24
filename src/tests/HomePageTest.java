@@ -6,6 +6,7 @@ public class HomePageTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Tittle - HomePage - Test");
+		System.out.println("Tag - release 01");
 		
 	}
 

@@ -7,6 +7,8 @@ public class CartPage {
 
 		System.out.println("Title - Cart Page");
 		System.out.println("Working on Cart page till shraddha finishes her order page");
+		
+		System.out.println("Tag - release 01");
 
 	}
 

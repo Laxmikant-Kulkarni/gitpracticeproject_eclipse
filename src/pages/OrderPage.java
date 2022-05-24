@@ -8,6 +8,8 @@ public class OrderPage {
 		System.out.println("Title -  ORDER PAGE");
 		
 		System.out.println("SK -  Working on the order page");
+		
+		System.out.println("Tag - release 01");
 
 	}
 

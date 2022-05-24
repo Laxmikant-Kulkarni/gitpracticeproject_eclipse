@@ -10,6 +10,8 @@ public class CartPageTest {
 
 		System.out.println("Working on Cart page test till shraddha finishes her order page");
 		
+		System.out.println("Tag - release 01");
+		
 		
 	}
 
