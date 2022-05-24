@@ -9,6 +9,8 @@ public class OrderPageTest {
 		System.out.println("Title -  ORDER PAGE -  Test");
 		
 		System.out.println("SK -  Working on the order page test");
+		
+		System.out.println("Adding order page method as requested in the review");
 
 	}
 
